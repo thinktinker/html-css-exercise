@@ -20,3 +20,24 @@ hr{
     height: 2px;
     background-color: rgb(185, 179, 179);
 }
+
+.product-table, .product-th, .product-td {
+    border: 1px salmon solid;
+
+}
+
+.product-td, .product-th {
+    border: 1px salmon solid;
+    padding: .5em;
+}
+
+.product-th {
+    background-color: orange;
+}
+
+.my-btn {
+    width: 100%;
+    margin: 2px 0px;
+    padding: 2px 0px;
+}
+
