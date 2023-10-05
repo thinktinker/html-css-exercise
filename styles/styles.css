@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(241, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 2em;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+hr{
+    border: 0;
+    border-style: solid;
+    height: 2px;
+    background-color: rgb(185, 179, 179);
+}
